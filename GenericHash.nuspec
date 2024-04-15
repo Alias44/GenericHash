@@ -15,4 +15,7 @@
     <tags>HashCode rehansaeed</tags>
     <readme>README.md</readme>
   </metadata>
+    <files>
+    <file src=".\readme.md"/>
+  </files>
 </package>
