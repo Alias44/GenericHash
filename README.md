@@ -1,0 +1,2 @@
+# Purpose
+I liked the clean and straightforward implementation of Muhammad Rehan Saeed's hash code class ([GetHashCode Made Easy](https://rehansaeed.com/gethashcode-made-easy/)), but I'd prefer to have a library I can import as opposed to copying code. As such, I'm publishing it as a NuGet package.
