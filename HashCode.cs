@@ -87,7 +87,7 @@ namespace GenericHashLib
 		public bool Equals(HashCode other) => this.value.Equals(other.value);
 
 		/// <inheritdoc />
-		public override bool Equals(object obj)
+		public override bool Equals(object? obj)
 		{
 			if (obj is HashCode)
 			{
